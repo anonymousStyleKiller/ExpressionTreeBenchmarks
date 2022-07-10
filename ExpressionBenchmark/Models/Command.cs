@@ -1,4 +1,4 @@
-﻿namespace ExpressionBenchmark;
+﻿namespace ExpressionBenchmark.Models;
 
 public  class Command
 {

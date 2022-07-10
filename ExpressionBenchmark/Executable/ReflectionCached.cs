@@ -1,4 +1,5 @@
 ﻿using System.Reflection;
+using ExpressionBenchmark.Models;
 
 namespace ExpressionBenchmark.Executable;
 
